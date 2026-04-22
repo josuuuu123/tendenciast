@@ -214,6 +214,8 @@ Al finalizar la práctica, el estudiante habrá logrado:
 <img width="580" height="366" alt="image" src="https://github.com/user-attachments/assets/28ab7e8f-360f-4d50-93ae-05da343a53c6" />
 <img width="825" height="171" alt="image" src="https://github.com/user-attachments/assets/b75722e7-c7f3-4085-b0fa-d60af45e3aa6" />
 <img width="1362" height="672" alt="image" src="https://github.com/user-attachments/assets/af662fff-b535-45a4-8de3-2cfef47ef42d" />
+link de video: https://youtube.com/shorts/UZ8ovUKDw9I?si=JybD2xfaNcjpapuA
+
 
 
 
